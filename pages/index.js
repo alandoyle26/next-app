@@ -19,7 +19,7 @@ const Index = props => (
         h1, 
         a {
         font - family: "Arial";
-        color: #212121;
+        color: #000000;
         font-size: 22px;
         }
 

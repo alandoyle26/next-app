@@ -2019,14 +2019,14 @@ const Index = props => __jsx(_comps_MyLayout__WEBPACK_IMPORTED_MODULE_2__["defau
   },
   __self: undefined
 }, __jsx("h1", {
-  className: "jsx-137194798",
+  className: "jsx-873400395",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 7
   },
   __self: undefined
 }, "Batman shows"), __jsx("ul", {
-  className: "jsx-137194798",
+  className: "jsx-873400395",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 8
@@ -2034,7 +2034,7 @@ const Index = props => __jsx(_comps_MyLayout__WEBPACK_IMPORTED_MODULE_2__["defau
   __self: undefined
 }, props.shows.map(show => __jsx("li", {
   key: show.id,
-  className: "jsx-137194798",
+  className: "jsx-873400395",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 10
@@ -2049,16 +2049,16 @@ const Index = props => __jsx(_comps_MyLayout__WEBPACK_IMPORTED_MODULE_2__["defau
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-137194798",
+  className: "jsx-873400395",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 12
   },
   __self: undefined
 }, show.name))))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-  id: "137194798",
+  id: "873400395",
   __self: undefined
-}, "h1.jsx-137194798,a.jsx-137194798{font - family:\"Arial\";color:#212121;font-size:22px;}ul.jsx-137194798{padding:0;}li.jsx-137194798{list - style:none;margin:5px 0;}a.jsx-137194798{text - decoration:none;color:#757575;}a.jsx-137194798:hover{opacity:0.6;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGFuZG95bGUvZ2l0UHJvamVjdHMvbmV4dC1hcHAvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBaUJTLEFBSStCLEFBTVosQUFJUSxBQUtLLEFBS1gsVUFiWixFQWNBLE1BVmEsSUFWQyxDQWVBLFFBSmQsS0FWZSxDQWVmLGNBZEEiLCJmaWxlIjoiL1VzZXJzL2FsYW5kb3lsZS9naXRQcm9qZWN0cy9uZXh0LWFwcC9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcHMvTXlMYXlvdXQnO1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcbmltcG9ydCBmZXRjaCBmcm9tICdpc29tb3JwaGljLXVuZmV0Y2gnO1xuXG5jb25zdCBJbmRleCA9IHByb3BzID0+IChcbiAgICA8TGF5b3V0PlxuICAgICAgICA8aDE+QmF0bWFuIHNob3dzPC9oMT5cbiAgICAgICAgPHVsPlxuICAgICAgICAgICAge3Byb3BzLnNob3dzLm1hcChzaG93ID0+IChcbiAgICAgICAgICAgICAgICA8bGkga2V5PXtzaG93LmlkfT5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9wL1tpZF1cIiBhcz17YC9wLyR7c2hvdy5pZH1gfT5cbiAgICAgICAgICAgICAgICAgICAgICAgIDxhPntzaG93Lm5hbWV9PC9hPlxuICAgICAgICAgICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgICAgICAgPC9saT5cbiAgICAgICAgICAgICkpfVxuICAgICAgICA8L3VsPlxuICAgICAgICA8c3R5bGUganN4PlxuICAgICAgICB7YFxuICAgICAgICBoMSwgXG4gICAgICAgIGEge1xuICAgICAgICBmb250IC0gZmFtaWx5OiBcIkFyaWFsXCI7XG4gICAgICAgIGNvbG9yOiAjMjEyMTIxO1xuICAgICAgICBmb250LXNpemU6IDIycHg7XG4gICAgICAgIH1cblxuICAgICAgICB1bCB7XG4gICAgICAgIHBhZGRpbmc6IDA7XG4gICAgICAgIH1cblxuICAgICAgICBsaSB7XG4gICAgICAgIGxpc3QgLSBzdHlsZTogbm9uZTtcbiAgICAgICAgbWFyZ2luOiA1cHggMDtcbiAgICAgICAgfVxuXG4gICAgICAgIGEge1xuICAgICAgICB0ZXh0IC0gZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgY29sb3I6ICM3NTc1NzU7XG4gICAgICAgIH1cblxuICAgICAgICBhOmhvdmVyIHtcbiAgICAgICAgb3BhY2l0eTogMC42O1xuICAgICAgICB9XG4gICAgICAgIGB9XG4gICAgICAgIDwvc3R5bGU+XG5cbiAgICA8L0xheW91dD5cbik7XG5cbkluZGV4LmdldEluaXRpYWxQcm9wcyA9IGFzeW5jIGZ1bmN0aW9uKCkge1xuICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKCdodHRwczovL2FwaS50dm1hemUuY29tL3NlYXJjaC9zaG93cz9xPWJhdG1hbicpO1xuICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpO1xuXG4gICAgY29uc29sZS5sb2coYFNob3cgZGF0YSBmZXRjaGVkLiBDb3VudDogJHtkYXRhLmxlbmd0aH1gKTtcblxuICAgIHJldHVybiB7XG4gICAgICAgIHNob3dzOiBkYXRhLm1hcChlbnRyeSA9PiBlbnRyeS5zaG93KVxuICAgIH07XG59O1xuXG5leHBvcnQgZGVmYXVsdCBJbmRleDsiXX0= */\n/*@ sourceURL=/Users/alandoyle/gitProjects/next-app/pages/index.js */"));
+}, "h1.jsx-873400395,a.jsx-873400395{font - family:\"Arial\";color:#000000;font-size:22px;}ul.jsx-873400395{padding:0;}li.jsx-873400395{list - style:none;margin:5px 0;}a.jsx-873400395{text - decoration:none;color:#757575;}a.jsx-873400395:hover{opacity:0.6;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGFuZG95bGUvZ2l0UHJvamVjdHMvbmV4dC1hcHAvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBaUJTLEFBSStCLEFBTVosQUFJUSxBQUtLLEFBS1gsVUFiWixFQWNBLE1BVmEsSUFWQyxDQWVBLFFBSmQsS0FWZSxDQWVmLGNBZEEiLCJmaWxlIjoiL1VzZXJzL2FsYW5kb3lsZS9naXRQcm9qZWN0cy9uZXh0LWFwcC9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcHMvTXlMYXlvdXQnO1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcbmltcG9ydCBmZXRjaCBmcm9tICdpc29tb3JwaGljLXVuZmV0Y2gnO1xuXG5jb25zdCBJbmRleCA9IHByb3BzID0+IChcbiAgICA8TGF5b3V0PlxuICAgICAgICA8aDE+QmF0bWFuIHNob3dzPC9oMT5cbiAgICAgICAgPHVsPlxuICAgICAgICAgICAge3Byb3BzLnNob3dzLm1hcChzaG93ID0+IChcbiAgICAgICAgICAgICAgICA8bGkga2V5PXtzaG93LmlkfT5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9wL1tpZF1cIiBhcz17YC9wLyR7c2hvdy5pZH1gfT5cbiAgICAgICAgICAgICAgICAgICAgICAgIDxhPntzaG93Lm5hbWV9PC9hPlxuICAgICAgICAgICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgICAgICAgPC9saT5cbiAgICAgICAgICAgICkpfVxuICAgICAgICA8L3VsPlxuICAgICAgICA8c3R5bGUganN4PlxuICAgICAgICB7YFxuICAgICAgICBoMSwgXG4gICAgICAgIGEge1xuICAgICAgICBmb250IC0gZmFtaWx5OiBcIkFyaWFsXCI7XG4gICAgICAgIGNvbG9yOiAjMDAwMDAwO1xuICAgICAgICBmb250LXNpemU6IDIycHg7XG4gICAgICAgIH1cblxuICAgICAgICB1bCB7XG4gICAgICAgIHBhZGRpbmc6IDA7XG4gICAgICAgIH1cblxuICAgICAgICBsaSB7XG4gICAgICAgIGxpc3QgLSBzdHlsZTogbm9uZTtcbiAgICAgICAgbWFyZ2luOiA1cHggMDtcbiAgICAgICAgfVxuXG4gICAgICAgIGEge1xuICAgICAgICB0ZXh0IC0gZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgY29sb3I6ICM3NTc1NzU7XG4gICAgICAgIH1cblxuICAgICAgICBhOmhvdmVyIHtcbiAgICAgICAgb3BhY2l0eTogMC42O1xuICAgICAgICB9XG4gICAgICAgIGB9XG4gICAgICAgIDwvc3R5bGU+XG5cbiAgICA8L0xheW91dD5cbik7XG5cbkluZGV4LmdldEluaXRpYWxQcm9wcyA9IGFzeW5jIGZ1bmN0aW9uKCkge1xuICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKCdodHRwczovL2FwaS50dm1hemUuY29tL3NlYXJjaC9zaG93cz9xPWJhdG1hbicpO1xuICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpO1xuXG4gICAgY29uc29sZS5sb2coYFNob3cgZGF0YSBmZXRjaGVkLiBDb3VudDogJHtkYXRhLmxlbmd0aH1gKTtcblxuICAgIHJldHVybiB7XG4gICAgICAgIHNob3dzOiBkYXRhLm1hcChlbnRyeSA9PiBlbnRyeS5zaG93KVxuICAgIH07XG59O1xuXG5leHBvcnQgZGVmYXVsdCBJbmRleDsiXX0= */\n/*@ sourceURL=/Users/alandoyle/gitProjects/next-app/pages/index.js */"));
 
 Index.getInitialProps = async function () {
   const res = await isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_4___default()('https://api.tvmaze.com/search/shows?q=batman');
